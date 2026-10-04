@@ -1,3 +1,5 @@
+> **Archived.** This repo moved to [RLASAF12/agent-failure-lab](https://github.com/RLASAF12/agent-failure-lab/tree/main/toolrot) (folder `toolrot/`, full history preserved). Archived 2026-10-04.
+
 # TOOLROT — Agent Failure Series #21
 
 > Tool descriptions drift. Agents adapt. The wrong tool runs with perfect confidence.
